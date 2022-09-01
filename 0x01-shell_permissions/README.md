@@ -18,3 +18,4 @@ Other users: all the permissions
 Owner:read write and execute file
 Groups:read and execute file
 Other:write and execute file
+ a script that sets the mode of the file hello the same as olleh’s mode.
