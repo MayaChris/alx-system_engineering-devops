@@ -1,2 +1,0 @@
-#!/bin/bash
-chown vincent hello 100-change_owner_and_group/chown vincent dir0 dir1 dir2 my_dir and chgrp staff dir0 dir1 dir2 my_dir/chgrp staff hello 100-change_owner_and_group
