@@ -1,0 +1,2 @@
+#!/bin/bash
+chown vincent file1 file2 and chgrp staff dir1 dir2
